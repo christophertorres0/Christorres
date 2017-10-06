@@ -301,4 +301,6 @@
 .orange {
   background-color: #e08328;
 }
+img {
+  content: url(skeleton.png);	
 }
